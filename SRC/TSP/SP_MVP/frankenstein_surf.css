@@ -1,0 +1,31 @@
+/* Hero */
+.jumbotron {
+    /* Choisis la hauteur ici */
+    height: 400px;
+
+    /* Tu lui donnes une image de background */
+    background-image: url("https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+
+    /* Centre l'image et la met bien sur tous les Ecrans */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+/* Un petit réglage pour que le texte pop bien visuellement sur une photo pas simple */
+.jumbotron {
+  color: #fff;
+   text-shadow: #000 0px 0px 10px;
+}
+
+/* Testimonies */
+/* Marges bloc témoignage */
+.container_margin {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+/* Harmonisation card photos */
+.card-img-top {
+  height: 350px;
+}

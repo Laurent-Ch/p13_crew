@@ -1,0 +1,13 @@
+
+h1, h2 {
+/* Koh Santepheap, regular 400 */
+font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+  font-variant: small-caps;
+}
+
+body {
+  /* Noto Sans, regular 400 */
+font-family: 'Noto Sans', sans-serif;}

@@ -1,8 +1,0 @@
-.row row-cols-1 row-cols-md-3 g-4 {
-  display: flex;
-  justify-content: center;
-}
-
-#col1 {
-  background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Volkswagen_Type_2_at_The_Henry_Ford_-_July_2017.jpg/220px-Volkswagen_Type_2_at_The_Henry_Ford_-_July_2017.jpg);
-}
